@@ -122,7 +122,7 @@ transform: translate(40px, 30%);
     transform-origin: right;
 }
 .twenty-four:hover{
-    transform: scaleX(2);
+    transform: scaleX(1);
     transform-origin: left;
 }
 .twenty-five:hover{
